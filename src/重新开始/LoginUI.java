@@ -12,6 +12,8 @@ import javax.swing.JFrame;
  * 程序启动的入口 
  *  
  * @author Administrator 
+
+这个是什么意思
  *  
  */  
 public class LoginUI extends JFrame {  
